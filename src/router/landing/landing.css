@@ -1,0 +1,19 @@
+.big-container {
+    height: 500px;
+    width: 100%;
+    background-color: gray;  
+    display: flex;
+
+  }
+  
+  .left-container {
+    height:100%;
+    width: 50%;
+    background-color: aqua;
+  }
+  
+  .right-container {
+    height:100%;
+    width: 50%;
+    background-color: lightsalmon;
+  }
